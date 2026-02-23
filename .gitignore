@@ -1,0 +1,14 @@
+backend/node_modules/
+backend/.env
+backend/uploads/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/app/google-services.json
+android/*.iml
+android/app/*.iml
+android/.idea/
+backend/src/config/serviceAccountKey.json
+.DS_Store
+*.log

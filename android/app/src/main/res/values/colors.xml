@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="scarlet_primary">#ED2100</color>
+    <color name="scarlet_dark">#A80016</color>
+
+    <color name="scarlet_container">#FFD9DE</color>
+    <color name="on_scarlet_container">#40000A</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#1C1B1F</color> <color name="background_light">#F8F9FA</color> <color name="white_text">#FFFFFF</color>
+    //Dark theme
+    <color name="scarlet_primary_dark">#FFB4AB</color>
+    <color name="scarlet_container_dark">#93000A</color>
+    <color name="on_scarlet_container_dark">#FFDAD6</color>
+    <color name="background_dark">#1A1111</color>
+    <color name="surface_dark">#201A1A</color>
+    <color name="app_background">#F8F9FA</color> <!-- Для списков -->
+    <color name="chat_background">#E8EBEF</color> <!-- Трендовый серо-голубой фон чата -->
+</resources>
